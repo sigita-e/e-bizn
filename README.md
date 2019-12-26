@@ -1,2 +1,3 @@
 # e-bizn
-E-biznesa sistēmas praktiskais darbs
+E-biznesa sistēmas: praktiskais darbs
+Admin parole: admin123
